@@ -4,7 +4,7 @@
           versionCode="1"
           versionName="0.1">
     <uses-sdk android:minSdkVersion="22"/>
-    <application android:label="EctractId">
+	<application android:label="EctractId" android:icon="@drawable/icon" >
         <activity android:name=".MainActivity">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN"/>
